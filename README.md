@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hugo Gómez Martín</h1>
 <h3 align="center">A passionate developer from Spain</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hgomezmartin&label=Profile%20views&color=0e75b6&style=flat" alt="hgomezmartin" /> </p>
-
-<p align="left"> <a href="https://twitter.com/goomezhugo" target="blank"><img src="https://img.shields.io/twitter/follow/goomezhugo?logo=twitter&style=for-the-badge" alt="goomezhugo" /></a> </p>
+<p align="centre"> <img src="https://komarev.com/ghpvc/?username=hgomezmartin&label=Profile%20views&color=0e75b6&style=flat" alt="hgomezmartin" /> </p>
 
 - 📖​ I’m currently studying Computer Engineering in Burgos University [Ingeniería Informática - Universidad de Burgos](https://www.ubu.es/grado-en-ingenieria-informatica)
 
