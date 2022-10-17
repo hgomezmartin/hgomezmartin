@@ -19,7 +19,7 @@
 <h3 align="left">Some info and stats:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hgomezmartin&show_icons=true&locale=en&layout=compact" alt="hgomezmartin" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hgomezmartin&show_icons=true&locale=en" alt="hgomezmartin" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=hgomezmartin&show_icons=true&locale=en" alt="hgomezmartin" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hgomezmartin&" alt="hgomezmartin" /></p>
 
