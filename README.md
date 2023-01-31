@@ -17,8 +17,8 @@
 </p>
 </p>
 <h3 align="left">Some info and stats:</h3>
-<p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=hgomezmartin&show_icons=true&locale=en&layout=compact&theme=radical" alt="hgomezmartin" /></p>
-<p><img  src="https://github-readme-stats.vercel.app/api?username=hgomezmartin&show_icons=true&locale=en&layout=compact&theme=radical" alt="hgomezmartin" width="350" /></p>
+<p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=hgomezmartin&show_icons=true&locale=en&layout=compact&theme=radical" alt="hgomezmartin" />
+<img  src="https://github-readme-stats.vercel.app/api?username=hgomezmartin&show_icons=true&locale=en&layout=compact&theme=radical" alt="hgomezmartin" width="350" /></p>
 <p><img  src="https://github-readme-streak-stats.herokuapp.com/?user=hgomezmartin&layout=compact&theme=radical" alt="hgomezmartin" width="350" /></p>
 
 <h3 align="left">Languages and Tools:</h3>
