@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hugo Gómez Martín</h1>
 <h3 align="center">A passionate developer from Spain</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=hgomezmartin&label=Profile%20views&color=0e75b6&style=flat" alt="hgomezmartin" /> </p>
-
 - 📖​ I’m currently studying Computer Engineering in Burgos University [Ingeniería Informática - Universidad de Burgos](https://www.ubu.es/grado-en-ingenieria-informatica)
 
 - 👨‍💻 All of my projects are available at [https://github.com/hgomezmartin?tab=repositories](https://github.com/hgomezmartin?tab=repositories)
